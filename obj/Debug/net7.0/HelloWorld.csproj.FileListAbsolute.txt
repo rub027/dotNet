@@ -69,3 +69,4 @@
 /Users/rafaelrubiano/Documents/Cursos/C#-NET/HelloWorld/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/rafaelrubiano/Documents/Cursos/C#-NET/HelloWorld/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
 /Users/rafaelrubiano/Documents/Cursos/C#-NET/HelloWorld/bin/Debug/net7.0/appsettings.json
+/Users/rafaelrubiano/Documents/Cursos/C#-NET/HelloWorld/bin/Debug/net7.0/Newtonsoft.Json.dll
